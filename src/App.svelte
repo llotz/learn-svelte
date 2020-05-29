@@ -1,7 +1,7 @@
 <script>
   import Navbar from "./Navbar.svelte";
   import Player from "./Player.svelte";
-  import AddPlayer from "./AddPlayer.svelte";
+  import AddPlayer from "./AddPlayer.sgvelte";
 
   export let title;
 
